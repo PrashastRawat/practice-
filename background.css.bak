@@ -1,0 +1,14 @@
+  body{  background-image:url(OPBG.jpg); background-position: center;
+      background-size: cover;
+      background-attachment: fixed;}
+	  p {line-height:150%; font-style:italic;font-weight:bold;}
+		p {text-indent:23px;  background-color:skyblue; padding:10px;}
+		p { border-top-color:red;  border-top-style:solid;  border-top-width:4px;}
+		
+		a:link { background-color:yellow;  border-color:red;  
+		border-style:dashed;  border-width:2px; padding:20px;
+		margin:50px;}
+		a:visited {color:red;}
+		a:hover{background-color:blue;color:white; text-decoration:underline;
+		        font-weight:bold;}
+	    a:active{background-color:red;}

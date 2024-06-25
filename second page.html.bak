@@ -1,0 +1,17 @@
+<!doctype html>
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="background.css"/>
+<title>second  page</title>
+</head>
+<body>
+<h1>
+this is the link page page</h1><br>
+<a href="http://youtube.com">Youtube</a>
+<a href="intro.html">my  html corses</a>
+<a  href="C:\Users\Prashast\Downloads\WhatsApp (4).jpeg"> my  passport</a>
+<a href="webpage.html">luffy</a>
+<P>this is awesome</p>
+</body>
+</html>
